@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13605650&assignment_repo_type=AssignmentRepo)
 # Lesson 4 Project
-For this project, you will expand upon a template using what you learned in this lesson to apply structural elements. You will then create your first web page based upon that template. 
+For this project, you will expand upon a template using what you learned in this lesson to apply structural elements. You will then create your first web page based upon that template.
 
 >**TIP:** You may need to nest elements to complete the objectives of the assignment. Learn more about Nested HTML Elements at [W3Schools.com](https://www.w3schools.com/html/html_elements.asp)
 
@@ -8,7 +8,7 @@ For this project, you will expand upon a template using what you learned in this
 
 ## Project Prep
 1. Clone the repo to your computer within your course folder.
-2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
+2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there.
 
    >**TIP:** Right click on the file and choose the `Open Preview` option.
 3. If there are files and folders present other than this `readme.md` file, take some time to familiarize yourself with the files within the repo so you know where they are located. This will help you when asked to use them within the project directions.
@@ -20,15 +20,15 @@ For this project, you will expand upon a template using what you learned in this
 1. Open the **template.html** file.
 0. **Update the multi-lined comment** with your **Course Name** and **Section Number**.
 0. **Update the title element** with the following information:
-   {YourMEID} - Template 
+   {YourMEID} - Template
    > Replace the {YourMEID} with your actual MEID, like the following example: **ABC1234567 - Template**
-0. **Add metadata** elements to define the following elements: 
-    - Define the `character encoding` as `UTF-8`. 
+0. **Add metadata** elements to define the following elements:
+    - Define the `character encoding` as `UTF-8`.
     - Define the `author` using your `first` and `last` names.
     - Add `metadata` elements for `keywords` and `descriptions`. Leave the `content` attribute empty for each element. You will be adding content in Part 2 of this project.
 0.  **Create a header element**, then complete the following within it:
     - **Add a first level heading** after the opening tag that reads: `Basic Template`.
-    - **Add a single paragraph** after the first level heading. 
+    - **Add a single paragraph** after the first level heading.
         - Within the paragraph, write a simple quote that you find inspirational/educational to keep you motivated (*e.g., "A mind once stretched by a new idea never regains its original dimensions"*).
         - **Apply an appropriate text-level semantic element** to the quote to change its appearance to italic. The text should appear in italics, but should not have emphasized importance.
     - **Create a navigation menu** using the NAV element after the slogan paragraph.
@@ -39,7 +39,7 @@ For this project, you will expand upon a template using what you learned in this
 
 0. **Create a main element,** following the HEADER element. Enter the following within the MAIN element:
     - **Add a second level heading** after the opening tag that reads: `Content Heading`
-    - **Create a paragraph** filled with dummy text following the heading. 
+    - **Create a paragraph** filled with dummy text following the heading.
          > **TIP:** Use an Emmet abbreviation to generate lorem ipsum. Simply type `lorem#` to generate # words of dummy text (Replace # with the number of words you want to generate.)
     - **Save** the file. **Sync** your file to GitHub and apply a **Commit** that says, `Main element created`.
 
